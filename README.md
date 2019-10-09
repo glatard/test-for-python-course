@@ -1,2 +1,3 @@
 # test-for-python-course
-Just a test
+
+Hello, this is just a test for a Python course
